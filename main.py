@@ -1,4 +1,5 @@
 print("oumlkhieri")
 print("neye")
 print("khadije")
-print("hiiii")
+for i in range(5):
+  print(i)
